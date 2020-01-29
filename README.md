@@ -1,4 +1,4 @@
-## Looking for challenges? 
+### Looking for challenges? 
 
 [Check them out here](https://github.com/CrypticBurrs/challenges) 
 
