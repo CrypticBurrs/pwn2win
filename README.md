@@ -6,4 +6,4 @@
 [Check them out here](https://github.com/NoDataFound/23Coins) 
 
 ## Looking for puzzles?
-[Check them out here](https://pwn2win.com) 
+[Check them out here](https://github.com/23isreal) 
